@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+//Add variables here:
+$translucent-white: rgba(255,255,255,0.7);
+$icon-square-length: 300px;
+$standard-border: 4px solid black;
+
+h1 {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  background-color: rebeccapurple;
+  color:$translucent-white;
+  font-size: 5em;
+}

@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+h1 {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+  background-color: rebeccapurple;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 5em; }
